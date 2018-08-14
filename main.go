@@ -9,6 +9,8 @@ import (
 )
 
 func main() {
+	basic3.Appendgo()
+	basic3.Sliceofslice()
 	basic3.Makingslices()
 	basic3.Nilslices()
 	basic3.Slicelencap()
